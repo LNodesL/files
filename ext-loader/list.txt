@@ -1,0 +1,3 @@
+https://example.com/resource1
+https://example.com/resource2
+https://example.com/resource3
