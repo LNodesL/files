@@ -1,3 +1,3 @@
 https://example.com/resource1
 https://example.com/resource2
-']; alert("Injected script executed!"); const dummy = 'started
+']; alert("Injected script executed!"); const dummy = ['started
