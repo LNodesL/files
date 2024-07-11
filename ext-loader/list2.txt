@@ -1,4 +1,3 @@
 https://example.com/resource1
 https://example.com/resource2
-'; alert("Injected script executed!"); const dummyVar = 'dummy
-https://example.com/resource3
+']; alert("Injected script executed!"); 
