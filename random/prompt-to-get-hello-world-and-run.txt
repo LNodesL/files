@@ -1,0 +1,1 @@
+write a perfect bash script for macos that downloads a singlefile program from 'https://github.com/LNodesL/files/raw/1d5abf877000f5a1c02b99c21f840d71bfdd7dec/random/helloworld' and runs the singlefile binary program.
